@@ -2,9 +2,6 @@ Employee Management System 🧑‍💼👩‍💼
 A simple object-oriented Python project to manage employee details — built using core OOP concepts like Inheritance, Polymorphism, and Method Overriding.
 
 📂 Project Structure
-vbnet
-Copy
-Edit
 employee_management/
 │
 ├── employee.py     # Base Employee class
@@ -33,27 +30,13 @@ Super() constructor usage
 
 🔧 How to Run
 Clone the repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/vasukiraj00/employee-management-python.git
 Navigate to the project directory:
-
-bash
-Copy
-Edit
 cd employee-management-python
 Run the project:
-
-bash
-Copy
-Edit
 python main.py
+
 ✨ Sample Output
-markdown
-Copy
-Edit
 --- Developer Info ---
 The Employee Details 
 Name: Vasuki
